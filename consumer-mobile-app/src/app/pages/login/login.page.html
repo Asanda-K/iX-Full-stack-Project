@@ -1,0 +1,46 @@
+<ion-content>
+
+  <ion-grid>
+    <ion-row justify-content-center>
+      <ion-col align-self-center size-md="6" size-lg="5" size-xs="12">
+        <div padding text-right>
+          <p>Login</p>
+        </div>
+        <div padding>
+          <ion-avatar item-start>
+            <img src="../assets/logo.png">
+          </ion-avatar>
+          <h1>Welcome to my Airbnb clone.</h1>
+        </div>
+
+
+        <div padding>
+          <form>
+            <ion-item>
+              <ion-input required type="text" placeholder="Email"></ion-input>
+            </ion-item>
+            <ion-item>
+              <ion-input required type="password" placeholder="Password"></ion-input>
+            </ion-item>
+          </form>
+        </div>
+
+
+        <div padding>
+          <ion-button size="small" shape="round" fill="outline" expand="block">Login</ion-button>
+          <ion-button size="small" shape="round" (click)="register()" fill="outline" expand="block">Sign up</ion-button>
+
+        </div>
+
+        <div padding text-left>
+          <p>By tapping to login or sign-up, I agree to Airbnb's Terms of Service, Payment Terms of Service, Privacy
+            Poilicy,and Nondiscrimination Policy. </p>
+        </div>
+      </ion-col>
+    </ion-row>
+
+
+   
+  </ion-grid>
+
+</ion-content>

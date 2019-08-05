@@ -1,0 +1,4 @@
+{"users":[{"id":"1","name":"Byron","surname":"de Villiers","cellPhone":"0829123465","email":"byron@mail.com","password":"P@ssword","role":"provider"},
+    {"id":"2","name":"Asanda","surname":"Kaka","cellPhone":"082912hghg5","email":"asanda@mail.com","password":"P@sswords","role":"user"},
+    {"id":"3","name":"Ken the cool","surname":"Walter","cellPhone":"0829127876","email":"ken@mail.com","password":"P@@swords","role":"user"},
+    {"id":"7","name":"Zola","surname":"Arosi","cellPhone":"08233427876","role":"user","email":"zola@mail.com","password":"P@swords"},{"id":"9","name":"less less","surname":"Arosi","cellPhone":"08233427876","role":"user","email":"zola@mail.com","password":"P@swords"},{"id":"9","name":"less less","surname":"Arosi","cellPhone":"08233427876","role":"user","email":"zola@mail.com","password":"P@swords"}]}

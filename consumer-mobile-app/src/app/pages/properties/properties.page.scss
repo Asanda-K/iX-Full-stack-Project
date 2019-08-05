@@ -1,0 +1,42 @@
+ion-content{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    color: white;
+}
+
+input{
+    border: none;
+    background-color: transparent;
+    outline: none;
+}
+
+$white-color: #fff;
+$height100: 100%;
+
+ion-grid {
+    width:100%;
+    color: white;
+    height: $height100;
+    }
+
+ion-row {
+    height: $height100;
+}
+
+ion-button {
+    font-weight: 300;
+    color: #fff;
+    --border-color:  #fff;
+    --background: clear;
+}
+ion-tab-button{
+    --padding-bottom:-2px;
+    font-size: 8px;
+    font-weight: bold;
+}
+
+ion-icon {
+    font-size: 25px;
+  }
